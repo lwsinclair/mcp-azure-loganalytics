@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dominicbut-mcp-azure-loganalytics-badge.png)](https://mseep.ai/app/dominicbut-mcp-azure-loganalytics)
+
 # Azure Log Analytics MCP Server
 
 This project implements an MCP server in Python that leverages Azure services to provide tools and prompts for log analysis. The server performs the following functions:
